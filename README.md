@@ -1,2 +1,5 @@
-# mate-decor-home
-MA&amp;TÊ Decor Home — loja online de decoração e casa.
+# MA&TÊ Decor Home
+
+Loja online de decoração criada com React + Vite.
+
+Este repositório serve a versão estática publicada pelo GitHub Pages.
